@@ -12,6 +12,7 @@ a:link{color: blue;}
 a:visited{color: darkmagenta;}
 a:hover{color: red;background-color: yellow;}
 .testo{opacity: 100%;width: 50%;}
+td{border-radius: 20px;}
 #cittadini{background-color: sandybrown; width: 100%;height: 10px;}
 #paolo{background-color: greenyellow; width: 100%;height: 10px;}
 #augusto{background-color: aquamarine;width: 100%;height: 10px;}
